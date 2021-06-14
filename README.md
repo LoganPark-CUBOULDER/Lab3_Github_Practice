@@ -1,3 +1,3 @@
 # Lab3_Github_Practice
-Logan Park
+Project Team Members:
 Logan Park
