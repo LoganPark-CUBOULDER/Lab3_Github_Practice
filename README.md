@@ -5,6 +5,7 @@ Project Team Members:
 - Logan Park
 - Zach Wrubel
 - Jonathan Noranbrock
+- Alex Ojemann
 
 Corrected Changes
 
