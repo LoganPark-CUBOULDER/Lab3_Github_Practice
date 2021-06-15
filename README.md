@@ -4,4 +4,7 @@ Project Team Members:
 Logan Park
 Zach Wrubel
 Jonathan Noranbrock
+
 Corrected Changes
+
+Project is math-site for practicing and promoting education of basic arithmetic at a universal scale.
