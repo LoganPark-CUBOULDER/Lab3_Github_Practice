@@ -6,7 +6,7 @@ Project Team Members:
 - Zach Wrubel
 - Jonathan Noranbrock
 - Alex Ojemann
-- Tim Wilson
+- Tim Wilson 
 
 Corrected Changes
 
