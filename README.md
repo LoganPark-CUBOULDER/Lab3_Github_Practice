@@ -1,5 +1,5 @@
 # Lab3_Github_Practice
-Group 6
+Group 6 - Math Application
 
 Project Team Members:
 - Logan Park
